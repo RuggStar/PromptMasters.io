@@ -16,7 +16,7 @@ author:
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes # Use Minimal Mistakes theme as a remote theme
+theme: minima # Use the Jekyll Minima Theme
 plugins:
   - jekyll-sitemap
   - jekyll-feed
