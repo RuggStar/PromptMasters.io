@@ -1,0 +1,33 @@
+# Site settings
+title: PromptMasters
+description: A collaborative prompt engineering resource
+baseurl: ""
+url: "https://yourusername.github.io/promptmasters"
+logo: "/assets/images/logo.png" # Replace this with the actual path to your logo image
+favicon: "/assets/images/favicon.ico" # Replace this with the actual path to your favicon image
+
+# Author information
+author:
+  name: Your Name
+  email: your.email@example.com
+  github: yourusername
+  twitter: your_twitter_handle
+  linkedin: your_linkedin_username
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-your-theme # Replace with the actual Jekyll theme you want to use
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Customization settings
+palette:
+  primary: "#FFA500" # Primary color (orange)
+  secondary: "#FFFFFF" # Secondary color (white)
+  tertiary: "#2D2D2D" # Tertiary color (dark grey)
+
+# Social settings (customize these with your own links)
+social:
+  github: https://github.com/yourusername/promptmasters
+  discord: https://discord.gg/your_invite_link
