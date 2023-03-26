@@ -16,8 +16,9 @@ author:
 
 # Build settings
 markdown: kramdown
-remote_theme: jekyll/minima # Use the Jekyll Minima Theme
+remote_theme: jekyll/minima
 plugins:
+  - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-feed
 
