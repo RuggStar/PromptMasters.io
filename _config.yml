@@ -16,7 +16,7 @@ author:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-your-theme # Replace with the actual Jekyll theme you want to use
+remote_theme: mmistakes/minimal-mistakes # Use Minimal Mistakes theme as a remote theme
 plugins:
   - jekyll-sitemap
   - jekyll-feed
